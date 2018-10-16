@@ -10,5 +10,10 @@
   - Use visualization to communicate my findings
 
 <A href='http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project3_Analyze-AB-Test-Results/Analyze_ab_test_results_notebook%20-%20mytest.ipynb'>Project 3 - Analyze AB Test Results</A><BR>
+  - Perform the A/B Test to determine if the e-commerce company should implement the new page
+  - Wrangle the treatment group and control group's data
+  - Use NumPy built-in function instead of for-loops to create sampling distribution and simulation more efficiently
+  - Compute the p-value by using statsmodels Z-test function and bootstrapping to determine if the observed value is statistically significant
+  - Use statsmodels to fit the logistic regression model and determine if the new page's impact is significantly different from the old page
 
 <A href = 'http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project4_Wrangle_and_Analyze_Data/wrangle_act.ipynb'> Project 4 - Wrangle and Analyze Data</A><BR>
