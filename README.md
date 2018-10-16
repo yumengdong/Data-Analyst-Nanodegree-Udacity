@@ -5,6 +5,9 @@
   - Plot the moving average of the temperature data and perform explanatory analysis
 
 <A href='http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project2_Investigate-a-Dataset/No-show%20appointments%20Data%20Analysis.ipynb'>Project 2 - Investigate a Dataset, No-show appointments</A><BR>
+  - Wrangle Brazil medical appointments show up data using pandas, NumPy and Matplotlib libraries
+  - Analyze the important factors to predict whether a patient will show on for the scheduled appointment
+  - Use visualization to communicate my findings
 
 <A href='http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project3_Analyze-AB-Test-Results/Analyze_ab_test_results_notebook%20-%20mytest.ipynb'>Project 3 - Analyze AB Test Results</A><BR>
 
