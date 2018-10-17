@@ -17,3 +17,6 @@
   - Use statsmodels to fit the logistic regression model and determine if the new page's impact is significantly different from the old page
 
 <A href = 'http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project4_Wrangle_and_Analyze_Data/wrangle_act.ipynb'> Project 4 - Wrangle and Analyze Data</A><BR>
+  - Use python tweepy library to query Twitter's API for dog rating data in "WeRateDogs" Twitter archive
+  - Assess and clean the gathered dataset using python libraries pandas, numpy, json and regular expression. Store the cleaned data to a SQLite database
+  - Analyze the dog rating, breeds, twitter favorite count data, and neural network prediction results. Communicate the insights though visualization
