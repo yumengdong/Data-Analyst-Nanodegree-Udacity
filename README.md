@@ -22,4 +22,9 @@
   - Analyze the dog rating, breeds, twitter favorite count data, and neural network prediction results. Communicate the insights though visualization
 
  Project 5 - Communicate Data Findings: <A href = 'http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project5_Communicate_Data_Findings/Exploration_Ford%20GoBike%20System.ipynb'>Exploration</A>, <A href = 'http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project5_Communicate_Data_Findings/Explanatory_FordGoBike.ipynb'>Explanation</A>, <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project5_Communicate_Data_Findings/Slides_Explanatory_FordGoBike.html'>Slides</A><BR>
-  - Use python tweepy library to query Twitter's API for dog rating data in "WeRateDogs" Twitter archive
+  - Investigate and analyze the trip information of Ford GoBike System in San Francisco Bay Area
+  - Assess and clean the bike trip information and user information using python 
+  - Perform univariate, bivariate, and multivariate explorations using python matplotlib and seaborn libraries
+  - Supplement statistics with visualization to understand the patterns and relationships in trip duration and other features
+  - Use transformations and encodings in explanation and creat slides to deliver clear and effective message
+  
