@@ -20,3 +20,6 @@
   - Use python tweepy library to query Twitter's API for dog rating data in "WeRateDogs" Twitter archive
   - Assess and clean the gathered dataset using python libraries pandas, numpy, json and regular expression. Store the cleaned data to a SQLite database
   - Analyze the dog rating, breeds, twitter favorite count data, and neural network prediction results. Communicate the insights though visualization
+
+ Project 5 - Communicate Data Findings: <A href = 'http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project5_Communicate_Data_Findings/Exploration_Ford%20GoBike%20System.ipynb'>Exploration</A>, <A href = 'http://nbviewer.jupyter.org/github/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project5_Communicate_Data_Findings/Explanatory_FordGoBike.ipynb'>Explanation</A>, <A href = 'http://htmlpreview.github.io/?https://github.com/yumengdong/Data-Analyst-Nanodegree-Udacity/blob/master/Project5_Communicate_Data_Findings/Slides_Explanatory_FordGoBike.html'>Slides</A><BR>
+  - Use python tweepy library to query Twitter's API for dog rating data in "WeRateDogs" Twitter archive
